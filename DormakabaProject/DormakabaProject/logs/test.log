@@ -1,0 +1,409 @@
+2025-03-15 16:21:14 [main] INFO  BasePageAction - Getting text from By.cssSelector: button[class*='consent']: '{}'
+2025-03-15 16:22:40 [main] INFO  BasePageAction - Getting text from : 'By.cssSelector: button[class*='consent']'
+2025-03-15 16:39:56 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 16:40:01 [main] INFO  BasePageAction - Getting text from : 'By.cssSelector: button[class*='consent']'
+2025-03-15 16:40:01 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com/products
+2025-03-15 16:53:19 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 16:53:22 [main] INFO  BasePageAction - Getting text from : 'By.cssSelector: button[class*='consent']'
+2025-03-15 17:03:28 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 17:03:32 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 17:03:32 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com/products
+2025-03-15 18:32:28 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 18:32:34 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 18:32:35 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 18:32:40 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 18:33:57 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 18:33:59 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 18:34:02 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 18:34:04 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 18:34:06 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 18:35:40 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 18:35:44 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 18:35:44 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 19:09:32 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 19:09:36 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 19:09:37 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 19:13:05 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 19:13:09 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 19:13:09 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 19:14:01 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 19:14:06 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 19:14:06 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 19:17:34 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 19:17:38 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 19:17:38 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 19:19:25 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 19:19:29 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 19:19:29 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 19:20:18 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 19:20:21 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 19:20:22 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 19:27:03 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 19:27:07 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 19:27:07 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 19:27:13 [main] INFO  BasePageAction - Quitting the browser
+2025-03-15 19:34:58 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 19:34:59 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 19:35:03 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 19:35:07 [main] INFO  BasePageAction - Quitting the browser
+2025-03-15 19:56:49 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 19:56:50 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 19:56:54 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 19:56:59 [main] INFO  BasePageAction - Quitting the browser
+2025-03-15 20:00:27 [main] INFO  Browser - Launching browser: Chrome
+2025-03-15 20:00:35 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 20:00:39 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 20:00:39 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 20:00:44 [main] INFO  BasePageAction - Quitting the browser
+2025-03-15 20:02:51 [main] INFO  Browser - Launching browser: Chrome
+2025-03-15 20:02:56 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 20:03:00 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 20:03:01 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 20:03:07 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 20:03:08 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 20:03:38 [main] INFO  BasePageAction - Quitting the browser
+2025-03-15 20:06:37 [main] INFO  Browser - Launching browser: Chrome
+2025-03-15 20:06:42 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 20:06:45 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 20:06:46 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 20:06:49 [main] INFO  BasePageAction - Quitting the browser
+2025-03-15 20:57:03 [main] INFO  Browser - Launching browser: Chrome
+2025-03-15 20:57:12 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 20:57:17 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 20:57:18 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 20:57:27 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='#Men']/span/i' 
+2025-03-15 20:57:28 [main] INFO  BasePageAction - Quitting the browser
+2025-03-15 21:03:42 [main] INFO  Browser - Launching browser: Chrome
+2025-03-15 21:03:51 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 21:03:55 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 21:03:56 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 21:04:00 [main] INFO  BasePageAction - Quitting the browser
+2025-03-15 21:04:20 [main] INFO  Browser - Launching browser: Chrome
+2025-03-15 21:04:26 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 21:04:27 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 21:04:29 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 21:17:57 [main] INFO  Browser - Launching browser: Chrome
+2025-03-15 21:18:07 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 21:18:12 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 21:18:13 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 21:37:49 [main] INFO  Browser - Launching browser: Chrome
+2025-03-15 21:38:38 [main] INFO  Browser - Launching browser: Chrome
+2025-03-15 21:38:48 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 21:38:50 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 21:38:54 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 21:39:05 [main] INFO  BasePageAction - Getting text from: 'By.xpath: By.xpath: //h2[contains(text(),'Men - Jeans Products')]'
+2025-03-15 21:46:31 [main] INFO  Browser - Launching browser: Chrome
+2025-03-15 21:46:43 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 21:46:48 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 21:46:48 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 21:49:01 [main] INFO  Browser - Launching browser: Chrome
+2025-03-15 21:49:21 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 21:49:22 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 21:49:25 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 22:00:50 [main] INFO  Browser - Launching browser: Chrome
+2025-03-15 22:01:03 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 22:01:07 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 22:01:08 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 22:02:01 [main] INFO  Browser - Launching browser: Chrome
+2025-03-15 22:02:11 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 22:02:15 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 22:02:15 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 22:08:29 [main] INFO  Browser - Launching browser: Chrome
+2025-03-15 22:08:38 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 22:08:43 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 22:08:44 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 22:11:54 [main] INFO  Browser - Launching browser: Chrome
+2025-03-15 22:12:03 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 22:12:07 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 22:12:07 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 22:17:03 [main] INFO  Browser - Launching browser: Chrome
+2025-03-15 22:17:13 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 22:17:17 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 22:17:17 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 22:19:26 [main] INFO  Browser - Launching browser: Chrome
+2025-03-15 22:19:39 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 22:19:43 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 22:19:44 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 22:21:17 [main] INFO  Browser - Launching browser: Chrome
+2025-03-15 22:21:34 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 22:21:35 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 22:21:39 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 22:23:01 [main] INFO  Browser - Launching browser: Chrome
+2025-03-15 22:23:14 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 22:23:18 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 22:23:18 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 22:32:21 [main] INFO  Browser - Launching browser: Chrome
+2025-03-15 22:32:28 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 22:32:31 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 22:32:32 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 22:32:56 [main] INFO  Browser - Launching browser: Chrome
+2025-03-15 22:33:03 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 22:33:07 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 22:33:07 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 22:40:35 [main] INFO  Browser - Launching browser: Chrome
+2025-03-15 22:40:40 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 22:40:43 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 22:40:44 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 22:42:28 [main] INFO  Browser - Launching browser: Chrome
+2025-03-15 22:42:35 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 22:42:39 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 22:42:39 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 22:50:34 [main] INFO  Browser - Launching browser: Chrome
+2025-03-15 22:50:38 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 22:50:42 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 22:50:42 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 22:51:45 [main] INFO  Browser - Launching browser: Chrome
+2025-03-15 22:51:53 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 22:51:57 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 22:51:58 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 23:07:54 [main] INFO  Browser - Launching browser: Chrome
+2025-03-15 23:07:59 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-15 23:08:02 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-15 23:08:02 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-15 23:08:10 [main] INFO  BasePageAction - Click on 'By.xpath: //ul[contains(@class, 'nav')]//a[contains(text(), 'Cart')]' 
+2025-03-16 10:05:52 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 10:05:58 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 10:06:01 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 10:06:01 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 10:06:07 [main] INFO  BasePageAction - Click on 'By.xpath: //ul[contains(@class, 'nav')]//a[contains(text(), 'Cart')]' 
+2025-03-16 10:09:10 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 10:09:14 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 10:09:17 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 10:09:17 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 10:09:22 [main] INFO  BasePageAction - Click on 'By.xpath: //ul[contains(@class, 'nav')]//a[contains(text(), 'Cart')]' 
+2025-03-16 10:13:53 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 10:13:57 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 10:14:00 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 10:14:00 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 10:14:05 [main] INFO  BasePageAction - Click on 'By.xpath: //ul[contains(@class, 'nav')]//a[contains(text(), 'Cart')]' 
+2025-03-16 10:14:06 [main] INFO  BasePageAction - Click on 'By.xpath: //a[contains(text(),'Proceed To Checkout')]' 
+2025-03-16 10:23:56 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 10:24:00 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 10:24:02 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 10:24:04 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 10:24:10 [main] INFO  BasePageAction - Click on 'By.xpath: //ul[contains(@class, 'nav')]//a[contains(text(), 'Cart')]' 
+2025-03-16 10:24:12 [main] INFO  BasePageAction - Click on 'By.xpath: //a[contains(text(),'Proceed To Checkout')]' 
+2025-03-16 10:24:12 [main] INFO  BasePageAction - Quitting the browser
+2025-03-16 10:24:13 [main] INFO  BasePageAction - Browser quit successfully
+2025-03-16 10:25:06 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 10:25:10 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 10:25:18 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 10:25:18 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 10:25:25 [main] INFO  BasePageAction - Click on 'By.xpath: //ul[contains(@class, 'nav')]//a[contains(text(), 'Cart')]' 
+2025-03-16 10:25:28 [main] INFO  BasePageAction - Click on 'By.xpath: //a[contains(text(),'Proceed To Checkout')]' 
+2025-03-16 10:25:28 [main] INFO  BasePageAction - Quitting the browser
+2025-03-16 10:25:30 [main] INFO  BasePageAction - Browser quit successfully
+2025-03-16 10:29:25 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 10:29:30 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 10:29:33 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 10:29:34 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 10:29:36 [main] INFO  BasePageAction - Quitting the browser
+2025-03-16 10:29:37 [main] INFO  BasePageAction - Browser quit successfully
+2025-03-16 10:29:52 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 10:30:02 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 10:30:08 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 10:30:08 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 10:30:18 [main] INFO  BasePageAction - Click on 'By.xpath: //ul[contains(@class, 'nav')]//a[contains(text(), 'Cart')]' 
+2025-03-16 10:30:21 [main] INFO  BasePageAction - Click on 'By.xpath: //a[contains(text(),'Proceed To Checkout')]' 
+2025-03-16 10:30:21 [main] INFO  BasePageAction - Quitting the browser
+2025-03-16 10:30:23 [main] INFO  BasePageAction - Browser quit successfully
+2025-03-16 10:45:36 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 10:45:43 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 10:45:48 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 10:45:48 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 10:45:54 [main] INFO  BasePageAction - Quitting the browser
+2025-03-16 10:45:56 [main] INFO  BasePageAction - Browser quit successfully
+2025-03-16 10:50:09 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 10:50:20 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 10:50:24 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 10:50:25 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 10:50:32 [main] INFO  BasePageAction - Click on 'By.xpath: //ul[contains(@class, 'nav')]//a[contains(text(), 'Cart')]' 
+2025-03-16 10:50:37 [main] INFO  BasePageAction - Click on 'By.xpath: //a[contains(text(),'Proceed To Checkout')]' 
+2025-03-16 10:50:38 [main] INFO  BasePageAction - Quitting the browser
+2025-03-16 10:50:42 [main] INFO  BasePageAction - Browser quit successfully
+2025-03-16 10:55:31 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 10:56:06 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 10:56:10 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 10:56:10 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 10:56:21 [main] INFO  BasePageAction - Quitting the browser
+2025-03-16 10:56:23 [main] INFO  BasePageAction - Browser quit successfully
+2025-03-16 10:59:36 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 10:59:44 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 10:59:48 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 10:59:48 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 10:59:53 [main] INFO  BasePageAction - Quitting the browser
+2025-03-16 10:59:54 [main] INFO  BasePageAction - Browser quit successfully
+2025-03-16 11:07:37 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 11:08:09 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 11:08:13 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 11:08:14 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 11:08:21 [main] INFO  BasePageAction - Quitting the browser
+2025-03-16 11:08:22 [main] INFO  BasePageAction - Browser quit successfully
+2025-03-16 11:11:56 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 11:12:20 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 11:12:25 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 11:12:26 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 11:12:34 [main] INFO  BasePageAction - Quitting the browser
+2025-03-16 11:12:37 [main] INFO  BasePageAction - Browser quit successfully
+2025-03-16 11:25:37 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 11:25:59 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 11:26:03 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 11:26:03 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 11:26:09 [main] INFO  BasePageAction - Quitting the browser
+2025-03-16 11:26:11 [main] INFO  BasePageAction - Browser quit successfully
+2025-03-16 11:34:25 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 11:34:32 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 11:34:36 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 11:34:37 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 11:34:41 [main] INFO  BasePageAction - Quitting the browser
+2025-03-16 11:34:42 [main] INFO  BasePageAction - Browser quit successfully
+2025-03-16 11:35:08 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 11:35:31 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 11:35:35 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 11:35:35 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 11:35:40 [main] INFO  BasePageAction - Quitting the browser
+2025-03-16 11:35:41 [main] INFO  BasePageAction - Browser quit successfully
+2025-03-16 11:44:58 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 11:45:03 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 11:45:08 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 11:45:08 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 11:45:12 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 11:45:15 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 11:45:45 [main] INFO  Browser - Quitting the browser
+2025-03-16 11:45:46 [main] INFO  Browser - Browser quit successfully
+2025-03-16 11:46:18 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 11:46:25 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 11:46:29 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 11:46:29 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 11:48:09 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 11:48:13 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 11:48:16 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 11:48:16 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 11:48:20 [main] INFO  Browser - Quitting the browser
+2025-03-16 11:48:20 [main] INFO  Browser - Browser quit successfully
+2025-03-16 11:48:28 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 11:48:33 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 11:48:38 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 11:48:38 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 11:48:45 [main] INFO  Browser - Quitting the browser
+2025-03-16 11:48:46 [main] INFO  Browser - Browser quit successfully
+2025-03-16 11:49:01 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 11:49:05 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 11:49:09 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 11:49:09 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 11:49:14 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 11:49:15 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 11:49:45 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 11:49:51 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 11:49:55 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 11:49:56 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 11:50:01 [main] INFO  Browser - Quitting the browser
+2025-03-16 11:50:02 [main] INFO  Browser - Browser quit successfully
+2025-03-16 11:50:02 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 11:50:21 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 11:50:27 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 11:50:31 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 11:50:31 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 11:50:36 [main] INFO  Browser - Quitting the browser
+2025-03-16 11:50:37 [main] INFO  Browser - Browser quit successfully
+2025-03-16 11:50:37 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 11:52:47 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 11:52:52 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 11:52:56 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 11:52:57 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 11:53:02 [main] INFO  Browser - Quitting the browser
+2025-03-16 11:53:04 [main] INFO  Browser - Browser quit successfully
+2025-03-16 11:53:04 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 11:54:32 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 11:54:37 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 11:54:41 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 11:54:41 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 11:54:48 [main] INFO  Browser - Quitting the browser
+2025-03-16 11:54:49 [main] INFO  Browser - Browser quit successfully
+2025-03-16 11:54:49 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 11:55:26 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 11:55:33 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 11:55:38 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 11:55:38 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 11:55:44 [main] INFO  Browser - Quitting the browser
+2025-03-16 11:55:46 [main] INFO  Browser - Browser quit successfully
+2025-03-16 11:55:46 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 11:57:24 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 11:57:31 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 11:57:37 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 11:57:37 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 11:57:43 [main] INFO  Browser - Quitting the browser
+2025-03-16 11:57:44 [main] INFO  Browser - Browser quit successfully
+2025-03-16 11:57:44 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 11:59:29 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 11:59:38 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 11:59:45 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 11:59:45 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 11:59:51 [main] INFO  Browser - Quitting the browser
+2025-03-16 11:59:54 [main] INFO  Browser - Browser quit successfully
+2025-03-16 11:59:54 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 12:00:00 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 12:00:05 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 12:00:05 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 12:00:12 [main] INFO  Browser - Quitting the browser
+2025-03-16 12:00:13 [main] INFO  Browser - Browser quit successfully
+2025-03-16 12:02:12 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 12:02:19 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 12:02:24 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 12:02:24 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 12:02:33 [main] INFO  BasePageAction - Click on 'By.xpath: //ul[contains(@class, 'nav')]//a[contains(text(), 'Cart')]' 
+2025-03-16 12:02:35 [main] INFO  BasePageAction - Click on 'By.xpath: //a[contains(text(),'Proceed To Checkout')]' 
+2025-03-16 12:02:36 [main] INFO  Browser - Quitting the browser
+2025-03-16 12:02:37 [main] INFO  Browser - Browser quit successfully
+2025-03-16 12:08:54 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 12:08:59 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 12:09:03 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 12:09:03 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 12:09:08 [main] INFO  Browser - Quitting the browser
+2025-03-16 12:09:09 [main] INFO  Browser - Browser quit successfully
+2025-03-16 12:09:09 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 12:09:13 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 12:09:23 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 12:09:23 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 12:09:27 [main] INFO  Browser - Quitting the browser
+2025-03-16 12:09:28 [main] INFO  Browser - Browser quit successfully
+2025-03-16 12:10:32 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 12:10:36 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 12:10:40 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 12:10:41 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 12:10:48 [main] INFO  Browser - Quitting the browser
+2025-03-16 12:10:50 [main] INFO  Browser - Browser quit successfully
+2025-03-16 12:10:50 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 12:10:56 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 12:11:01 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 12:11:01 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 12:11:05 [main] INFO  Browser - Quitting the browser
+2025-03-16 12:11:06 [main] INFO  Browser - Browser quit successfully
+2025-03-16 12:11:14 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 12:11:20 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 12:11:25 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 12:11:25 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 12:11:30 [main] INFO  BasePageAction - Click on 'By.xpath: //ul[contains(@class, 'nav')]//a[contains(text(), 'Cart')]' 
+2025-03-16 12:11:32 [main] INFO  BasePageAction - Click on 'By.xpath: //a[contains(text(),'Proceed To Checkout')]' 
+2025-03-16 12:11:32 [main] INFO  Browser - Quitting the browser
+2025-03-16 12:11:33 [main] INFO  Browser - Browser quit successfully
+2025-03-16 12:43:59 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 12:44:04 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 12:44:09 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 12:44:10 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 12:44:21 [main] INFO  BasePageAction - Click on 'By.xpath: //ul[contains(@class, 'nav')]//a[contains(text(), 'Cart')]' 
+2025-03-16 12:44:25 [main] INFO  BasePageAction - Click on 'By.xpath: //a[contains(text(),'Proceed To Checkout')]' 
+2025-03-16 12:44:25 [main] INFO  Browser - Quitting the browser
+2025-03-16 12:44:28 [main] INFO  Browser - Browser quit successfully
+2025-03-16 12:44:28 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 12:44:32 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 12:44:36 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 12:44:36 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 12:44:40 [main] INFO  Browser - Quitting the browser
+2025-03-16 12:44:41 [main] INFO  Browser - Browser quit successfully
+2025-03-16 12:44:41 [main] INFO  Browser - Launching browser: Chrome
+2025-03-16 12:44:45 [main] INFO  BasePageAction - Opening URL: https://www.automationexercise.com
+2025-03-16 12:44:48 [main] INFO  BasePageAction - Click on 'By.cssSelector: button[class*='consent']' 
+2025-03-16 12:44:48 [main] INFO  BasePageAction - Click on 'By.xpath: //a[@href='/products']' 
+2025-03-16 12:44:52 [main] INFO  Browser - Quitting the browser
+2025-03-16 12:44:53 [main] INFO  Browser - Browser quit successfully

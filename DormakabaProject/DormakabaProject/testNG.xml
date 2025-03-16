@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="MyTestSuite">
+    <test name="MyTest">
+        <classes>
+            <class name="testsPositive.ShopExerciseTest"/>
+            <class name="testsNegative.NegativeTest"/>
+            <!-- Add more test classes as needed -->
+        </classes>
+    </test>
+</suite>
